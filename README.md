@@ -35,6 +35,16 @@
 使用技術
 ・ ExcelVBA
 
+【使用例】
+
+![スクリーンショット 2023-04-16 172623](https://user-images.githubusercontent.com/118088137/232287333-dcc3fe38-04d9-46d7-af94-0a47380ab250.PNG)
+
+![スクリーンショット 2023-04-16 172811](https://user-images.githubusercontent.com/118088137/232287380-12d65e79-8a17-4082-854d-b041aaaac2f3.PNG)
+
+![スクリーンショット 2023-04-16 173531](https://user-images.githubusercontent.com/118088137/232287384-46005ea9-e721-4618-b244-ad509cd61a2c.PNG)
+
+![スクリーンショット 2023-04-16 173624](https://user-images.githubusercontent.com/118088137/232287392-71271031-ccb5-4492-980d-847afc132f70.PNG)
+
 # 依頼書
 
 見積依頼、サンプル依頼、問い合わせ等の依頼に際しての
