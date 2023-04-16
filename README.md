@@ -73,6 +73,10 @@
 ・ ExcelVBA
 
 【使用例】
-![スクリーンショット 2023-04-16 215545](https://user-images.githubusercontent.com/118088137/232313335-bec53d67-3933-44e9-8840-277cd85dea56.PNG)
 
+1."請求書"シートを開きます。
 ![スクリーンショット 2023-04-16 214713](https://user-images.githubusercontent.com/118088137/232313334-ac223008-0e0b-4084-a35f-1d9c38cb42a3.PNG)
+
+![スクリーンショット 2023-04-16 221223](https://user-images.githubusercontent.com/118088137/232313858-69827c26-7056-476c-824a-301cc2d03fdf.png)
+
+![スクリーンショット 2023-04-16 215545](https://user-images.githubusercontent.com/118088137/232313335-bec53d67-3933-44e9-8840-277cd85dea56.PNG)
